@@ -11,9 +11,6 @@ looping
 ## DONE
 
 # 1. Fork and clone this lab. 
-
-# PENDING
-
 # It's your first year at Hogwarts and you're having a 
 # tough time getting the hang of that levitation spell. 
 # Fill out the content of the method `looping` to contain a `loop` 
@@ -25,3 +22,8 @@ looping
 # in your terminal from the directory of this lab. 
 # You'll be stuck in an infinite levitation loop! 
 # Hit `Control`+`C` to exit the infinite loop. 
+
+## PENDING
+
+# all done
+
